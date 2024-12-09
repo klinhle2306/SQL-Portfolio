@@ -20,22 +20,22 @@ This portfolio serves as a demonstration of my proficiency in SQL, showcasing ho
 ---
 ## Projects
 
-1. **Sales Analysis**  
-- **Skills**: Aggregations, Joins 
-- **Objective**: Analyze sales data to identify performance metrics.
-  
+1. **Sales Analysis**
+     - **Skills**: Aggregations, Joins 
+     - **Objective**: Analyze sales data to identify performance metrics.
+    
 2. **Fortune 500 Companies Analysis**
    
-**Features:** Database schema creation and population with realistic company data.
-
-**Advanced SQL queries for:**
-- Grouping data dynamically using CASE statements.
-- Filtering insights with HAVING clauses.
-- Combining conditions using logical operators (AND, OR).
-- Aggregating data with functions like AVG, SUM, MAX, MIN, and COUNT.
-- Exploration of topics such as healthcare benefits, paid time off, maternity leave, and average tenure across industries.
-
-**Use Cases:** Data analysis and business insights on employee benefits, revenue trends, and industry benchmarks.
+    **Features:** Database schema creation and population with realistic company data.
+   
+    **Advanced SQL queries for:**
+      - Grouping data dynamically using CASE statements.
+      - Filtering insights with HAVING clauses.
+      - Combining conditions using logical operators (AND, OR).
+      - Aggregating data with functions like AVG, SUM, MAX, MIN, and COUNT.
+      - Exploration of topics such as healthcare benefits, paid time off, maternity leave, and average tenure across industries.
+        
+    **Use Cases:** Data analysis and business insights on employee benefits, revenue trends, and industry benchmarks.
 
 ---
 ## Contact Me
