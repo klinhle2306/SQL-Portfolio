@@ -37,13 +37,30 @@ This portfolio serves as a demonstration of my proficiency in SQL, showcasing ho
         
     **Use Cases:** Data analysis and business insights on employee benefits, revenue trends, and industry benchmarks.
 
+3. **Netflix Database Analysis**
+
+   **Feature: Dataset:**
+   - netflix_titles_info: Contains information about Netflix shows and movies, including their type, title, country, release year, rating, duration, and genre.
+   - netflix_people: Includes details about directors and cast for the respective shows or movies.
+   
+   **Advanced SQL queries for:**
+   - Table joins for relational data queries.
+   - Aggregations (COUNT, MAX, MIN) for summary statistics.
+   - Conditional filtering with WHERE clauses.
+   - Ordering results alphabetically.
+
+   **Use Cases:**
+   - Analyze Netflix's content library for trends and insights.
+   - Learn and practice SQL with real-world data scenarios.
+   - Build foundational SQL skills, including relational joins and data aggregation.
+
 ---
 ## Contact Me
 
 If you're interested in discussing my projects or learning more about my qualifications, feel free to connect with me:
 
 - **Email**: k.linh.le2306@gmail.com  
-- **LinkedIn**: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/linh-le-ngoc-khanh)
+- **LinkedIn**: [https://www.linkedin.com/in/linh-le-ngoc-khanh](https://www.linkedin.com/in/linh-le-ngoc-khanh)
 
 ---
 Thank you for visiting my SQL Portfolio. I look forward to sharing my work and engaging with you!
