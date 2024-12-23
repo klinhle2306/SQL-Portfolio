@@ -41,7 +41,7 @@ This portfolio serves as a demonstration of my proficiency in SQL, showcasing ho
 
 **3. Netflix Database Analysis**
 
-   **Feature: Dataset:**
+   **Feature Dataset:**
    - netflix_titles_info: Contains information about Netflix shows and movies, including their type, title, country, release year, rating, duration, and genre.
    - netflix_people: Includes details about directors and cast for the respective shows or movies.
    
