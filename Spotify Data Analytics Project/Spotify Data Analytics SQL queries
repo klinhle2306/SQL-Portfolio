@@ -46,7 +46,8 @@ GROUP BY song_key, song_mode
 ORDER BY track_count DESC
 LIMIT 1;
 
--- 5) Calculate the average popularity for the artists in the Spotify data table. Then, for every artist with an average popularity of 90 or above, show their name, their average popularity, and label them as a “Top Star”.
+-- 5) Calculate the average popularity for the artists in the Spotify data table. 
+--    Then, for every artist with an average popularity of 90 or above, show their name, their average popularity, and label them as a “Top Star”.
 WITH avg_popularity AS (
     SELECT artist_name, avg(popularity) as avg_pop
     FROM Spotifydata
