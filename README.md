@@ -56,11 +56,33 @@ This portfolio serves as a demonstration of my proficiency in SQL, showcasing ho
    - Learn and practice SQL with real-world data scenarios.
    - Build foundational SQL skills, including relational joins and data aggregation
 
-  **4. Customer & Order Analystics Project:**
+  **4. Customer & Order Analytics Project**
   
   **Featured Database:** This repository contains SQL queries for analyzing messy sales data from a hypothetical database (BIT_DB).
   
-  **Use cases:** The project focuses on extracting insights from January and February sales, including order counts, product performance, revenue, and customer behaviors. Designed to handle data inconsistencies, cleaned and filtered messy data, and demonstrate advanced SQL techniques such as joins, aggregations, and filtering.
+  **Use cases:** The project focuses on extracting insights from January and February sales, including order counts, product performance, revenue, and customer behaviors. Designed to handle data inconsistencies, clean and filter messy data, and demonstrate advanced SQL techniques such as joins, aggregations, and filtering.
+
+**5. Spotify Data Analysis**
+
+ **Key Features**
+- **Data Exploration**: Comprehensive analysis of musical features such as danceability, energy, valence, and acousticness.
+- **SQL Queries**: Detailed SQL scripts to answer complex analytical questions.
+
+**Dataset**
+The dataset contains information on Spotify's Top 50 tracks from 2021, including:
+- Artist name
+- Track name and ID
+- Popularity
+- Musical features (e.g., danceability, energy, tempo)
+- Acoustic and instrumental qualities
+
+**Use Cases**
+
+This repository is ideal for:
+- Music analysts seeking insights into popular music trends.
+- Data scientists exploring feature correlations in musical datasets.
+- Developers looking for SQL query examples for analytical tasks.
+- Students working on data analysis and machine learning projects in the music industry.
 
 ---
 ## Contact Me
