@@ -64,11 +64,12 @@ This portfolio serves as a demonstration of my proficiency in SQL, showcasing ho
 
 **5. Spotify Data Analysis**
 
- **Key Features**
+ **Key Features:**
 - **Data Exploration**: Comprehensive analysis of musical features such as danceability, energy, valence, and acousticness.
 - **SQL Queries**: Detailed SQL scripts to answer complex analytical questions.
 
-**Dataset**
+**Dataset:**
+
 The dataset contains information on Spotify's Top 50 tracks from 2021, including:
 - Artist name
 - Track name and ID
@@ -76,7 +77,7 @@ The dataset contains information on Spotify's Top 50 tracks from 2021, including
 - Musical features (e.g., danceability, energy, tempo)
 - Acoustic and instrumental qualities
 
-**Use Cases**
+**Use Cases:**
 
 This repository is ideal for:
 - Music analysts seeking insights into popular music trends.
